@@ -1,0 +1,29 @@
+/* ------rating icon styling------- */
+.fa-star{
+    font-size: 12px;
+}
+.fa-star.filled{
+    color: #FB8200;
+}
+.fa-star.empty{
+    color: #AEAEAE;
+}
+.fa-clock{
+    background-color: #FEE5DF;
+    color: #ED6B4F;
+    padding: 5px;
+    border-radius: 30px;
+}
+/* ----------footer styling------- */
+footer{
+    
+    color: white;
+    text-align: center;
+    background-color: #562EFF;
+    padding: 40px;
+    margin-top: 60px;
+}
+footer .fab{
+    color:white;
+    margin: 20px 2px;
+}
